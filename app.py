@@ -9,3 +9,4 @@ class ADMIN:
         self.atmn=atmn
         self.balance=0
         self.money=[0,0,0,0]
+        self.history=[]
